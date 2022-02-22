@@ -12,8 +12,8 @@
 
 - [ ] A. As a reference for Business Groups
 - [ ] B. To store tiles and target mappings by technology per solution area
-- [ ] C. As a reference for Business Catalogs
-- [ ] D. To reference tiles and target mappings according to Segregation of Duties for example a Purchaser, a Buyer and so on
+- [x] C. As a reference for Business Catalogs
+- [x] D. To reference tiles and target mappings according to Segregation of Duties for example a Purchaser, a Buyer and so on
 
 #### NEW QUESTION: 2
 #### What happens when you use the SAP Web IDE console during a deployment? (2 answers)

@@ -1,21 +1,11 @@
-## Angular
+## SAP Fiori 2020 
 
-#### Q1. What is the purpose of the ViewChild decorator in this component class?
+#### Q1. What are Technical Catalogs used for? Note: There are 2 correct answers to this question?
 
-```angularjs
-@Component({
-    ...
-    template: '<p #bio></p>'
-})
-export class UserDetailsComponent {
-    @ViewChild('bio') bio;
-}
-```
-
-- [x] It provides access from within the component class to the ElementRef object for the `<p>` tag that has the bio template reference variable in the component's template view.
-- [ ] It indicates that the `<p>` tag be rendered as a child of the parent view that uses this component.
-- [ ] It makes the `<p>` tag in the template support content projection.
-- [ ] It makes the `<p>` tag visible in the final render. If the #bio was used in the template and the @ViewChild was not used in the class, then Angular would automatically hide the `<p>` tag that has #bio on it.
+- [ ] A. As a reference for Business Groups
+- [x] B. To store tiles and target mappings by technology per solution area
+- [x] B. To store tiles and target mappings by technology per solution area
+- [ ] D. To reference tiles and target mappings according to Segregation of Duties for example a Purchaser, a Buyer and so on
 
 [DigitalOcean - viewchild-access-component](https://www.digitalocean.com/community/tutorials/angular-viewchild-access-component)
 

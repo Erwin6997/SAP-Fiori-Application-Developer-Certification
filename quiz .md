@@ -7,8 +7,351 @@
 - [x] B. To store tiles and target mappings by technology per solution area
 - [ ] D. To reference tiles and target mappings according to Segregation of Duties for example a Purchaser, a Buyer and so on
 
-[DigitalOcean - viewchild-access-component](https://www.digitalocean.com/community/tutorials/angular-viewchild-access-component)
-
+NEW QUESTION: 1
+What are Technical Catalogs used for? Note: There are 2 correct answers to this question
+A. As a reference for Business Groups
+B. To store tiles and target mappings by technology per solution area
+C. As a reference for Business Catalogs
+D. To reference tiles and target mappings according to Segregation of Duties for example
+a Purchaser, a Buyer and so on
+Answer: (SHOW ANSWER)
+NEW QUESTION: 2
+What happens when you use the SAP Web IDE console during a deployment? (2 answers)
+A. You can debug the error messages in the console
+B. You can view error messages when a deployment is successful
+C. You can view error messages when a deployment is NOT successful
+D. You can archive the success messages in the console
+Answer: C,D (LEAVE A REPLY)
+NEW QUESTION: 3
+What result do you expect from the de-composition and re-composition phases? (3
+answers)
+A. The break-down of a large transaction
+B. A purpose-built app to support personas
+C. An adaptive and coherent app
+D. A responsive de-composed design
+E. The prevention of irrelevant data being shown to the user
+Answer: A,B,D (LEAVE A REPLY)
+NEW QUESTION: 4
+You finalized your app development in the SAP Web IDE and need to deploy it. Which
+deployment targets are offered? (3 answers)
+A. Deploy to SAP Fiori launchpad
+B. SAPUI5 Java Repository
+C. SAPUI5 ABAP Repository
+D. Register to SAP Fiori launchpad
+E. SAP HANA Cloud Platform
+Answer: C,D,E (LEAVE A REPLY)
+NEW QUESTION: 5
+In the design thinking phase of your customer project, one design is accepted as viable.
+What other attributes need to be valid for this design to be considered? (2 answers)
+A. Feasible
+B. Usable
+C. Desirable
+D. Achievable
+Answer: (SHOW ANSWER)
+NEW QUESTION: 6
+What options can you use to add UI annotations to a SAP Fiori Element Page? Note:
+There are 3 correct answers to this question.
+A. Add Annotation to the Annotation file present as a part of WeblDE project using
+Annotation modeler
+B. Add Annotation with the help of a Metadata Extension
+C. Add Annotations to the underlying CDS view
+D. Add Annotation to the underlying Database Table
+Answer: B,C,D (LEAVE A REPLY)
+NEW QUESTION: 7
+In the code on the screenshot, what is the absolute path of the property to retrieve the City
+value for the company Acme Inc?
+A. /regions/0/companies/O/city
+B. /regions/companies/O/city
+C. /regions/companies/1/city
+D. /regions/1/companies/1/city
+Answer: (SHOW ANSWER)
+NEW QUESTION: 8
+In a standard SAPUI5 project, which file is the Application Descriptor that contains the
+metadata description of the application?
+A. Components
+B. Manifest.json
+C. Index.html
+D. Neo-app.json
+Answer: B (LEAVE A REPLY)
+NEW QUESTION: 9
+Which properties are part of the design phase when you develop SAP Fiori apps?
+A. Developing, Testing and Deploying
+B. Ideation, Prototyping and Validation
+C. Scoping, 360 degree research and Synthesis
+D. Requirement gathering, Research and Documentation
+Answer: (SHOW ANSWER)
+NEW QUESTION: 10
+Which of the following floorplans also have a standard SAP Fiori Elements implementation
+available as a part of SAP Fiori 2.0? Note: There are 3 correct answers to this question
+A. Analytical List
+B. Wizard
+C. Page List Report
+D. Page Overview
+E. Page Initial
+Answer: A,C,D (LEAVE A REPLY)
+NEW QUESTION: 11
+Your customer wants to extend an SAP Fiori app through a Controller Extension. When
+can a controller extension lead to a crash? (2 answers)
+A. If the extension code accesses parts of the original application that were removed
+B. If the extension code exists and is NOT referenced in the original view
+C. If the extension code exists in the extended app but the controller name is changed by
+an app update
+D. If the original code required to run the application is overwritten
+Answer: (SHOW ANSWER)
+NEW QUESTION: 12
+You extend an SAP Fiori app. The visibility value of a View Button control needs to be
+modified. Which extension point do you use?
+A. View Extension
+B. View Replacement
+C. View Modification
+D. View Visibility
+Answer: C (LEAVE A REPLY)
+NEW QUESTION: 13
+You are creating KPI Design or KPI Modeler Apps using the SAP KPI Framework. Which
+of the following sequences is the correct one for this?
+A. Create Tile. Create KPI, Create Evaluation, Configure Drill-Down, Manage KPI
+Associations
+B. Create Evaluation, Create Tile, Create KPI, Manage KPI Associations, Configure Drill-
+Down
+C. Create KPI. Configure Drill-Down. Create Evaluation, Create Tile Manage KPI
+Associations
+D. Create KPI, Create Evaluation, Create Tile Configure Drill-Down, Manage KPI
+Associations
+Answer: D (LEAVE A REPLY)
+NEW QUESTION: 14
+What is the purpose of the Logon Plugin Data Vault of the SAP Fiori Client?
+A. Prevent the access to all nonessential plugins
+B. Enable secure and seamless handling of attachments
+C. Allow a client policy that can be defined on the mobility platform
+D. Provide a reusable component for storing sensitive information on the device
+Answer: D (LEAVE A REPLY)
+NEW QUESTION: 15
+Why do you use the Cordova and SAP Kapsel plug-ins when using the SAP Web IDE,
+SAP HAT add-on? (2 answers)
+A. To enable multiple SAPUI5 apps
+B. To use offline OData
+C. To integrate device APIs
+D. To use X.509 client certificates
+Answer: B,D (LEAVE A REPLY)
+NEW QUESTION: 16
+You need the server to sort and filter the data used in your customers app. Which SAPUI5-
+supported data model must you use?
+A. ResourceModel
+B. XMLModel
+C. ODataModel
+D. JSONModel
+Answer: (SHOW ANSWER)
+Valid C_FIORDEV_21 Dumps shared by Fast2test.com for Helping Passing
+C_FIORDEV_21 Exam! Fast2test.com now offer the newest C_FIORDEV_21 exam
+dumps, the Fast2test.com C_FIORDEV_21 exam questions have been updated and
+answers have been corrected get the newest Fast2test.com C_FIORDEV_21 dumps
+with Test Engine here: https://www.fast2test.com/C_FIORDEV_21-premium-file.html
+(195 Q&As Dumps, 30%OFF Special Discount: freecram)
+NEW QUESTION: 17
+You develop an SAPUI5 app and implement a FacetFilter. What events are triggered when
+the user interacts with the FacetFilter control? (2 answers)
+A. oninit
+B. listFilter
+C. reset
+D. confirm
+Answer: C,D (LEAVE A REPLY)
+NEW QUESTION: 18
+Which activities does the OData Model Editor support? (3 answers)
+A. Edit ODataModels
+B. Create ODataModels
+C. Define ODataModels
+D. Deploy ODataModels
+E. Test ODataModels
+Answer: (SHOW ANSWER)
+NEW QUESTION: 19
+You develop an SAP Fiori sales app to display sales order information from the backend
+system. Which of the following model types do you use?
+A. XML model
+B. OData model
+C. Resource model
+D. JSON model
+Answer: (SHOW ANSWER)
+NEW QUESTION: 20
+You want to create a business catalog for all employees that contains a standard SAP Fiori
+app How would you do this?
+A. Reference the tile from Odata metadata
+B. Reference the tile from a SAP Business Catalog
+C. Reference the tile from a SAP Business Group
+D. Reference the tile from a Technical Catalog provided by SAP
+Answer: (SHOW ANSWER)
+NEW QUESTION: 21
+Which deployment options do you have for SAP Fiori Uls and OData Services regarding
+the software components? (2 answers)
+A. One deployment package on the same system as the business system
+B. Two different deployment packages on a different from the business system
+C. One deployment package on a different system from the business system
+D. Two different deployment packages on the same system as the business system
+Answer: (SHOW ANSWER)
+NEW QUESTION: 22
+In the code on the screenshot, what are the absolute paths of the property that retrieves
+the City value for the company Acme Inc.? Note: There are 2 correct answers to this
+question
+A. /region [OJ/companies[0]/city
+B. /regions/0/companies/O/city
+C. /regions/companies/O/city
+D. /regions/1/companies/l/city
+Answer: B (LEAVE A REPLY)
+NEW QUESTION: 23
+Which methods can you use to bind data to the controls in SAPUI5? (3 answers)
+A. Element
+B. Structure
+C. Property
+D. Combination
+E. Aggregation
+Answer: (SHOW ANSWER)
+NEW QUESTION: 24
+Your customer requires an app to display flight information on a mobile device. Please see
+the screenshot for details. Which options can you use to display the same data in a
+readable format on a mobile device? (2 answers)
+A. column : <Column demandPopin-'true" minScreenWidth="tablet">
+B. column: <Column:demandPopin="true" maxScreenWidth="mobile">
+C. column: <Column demandPopin-'true" minScreenWidth-'tablef popinDisplay-'lnline">
+D. column: <Column demandPopin-'true" maxScreenWidth-'mobile" popinDisplay="lnline">
+Answer: (SHOW ANSWER)
+NEW QUESTION: 25
+You need the backend server to sort and filter the data used in your customer's app. Which
+SAPU15-supported data model must you use?
+A. JSONModel
+B. ResourceModel
+C. ODataModel
+D. XML Model
+Answer: (SHOW ANSWER)
+NEW QUESTION: 26
+Your customer requests a special create method to enable the creation of the full OData
+hierarchy. Which OData service method can you use?
+A. CREATE_STREAM
+B. CREATE_BATCH_ENTITY
+C. EXECUTE_DEEP_INSERT
+D. CREATE_DEEP_ENTITY
+Answer: D (LEAVE A REPLY)
+NEW QUESTION: 27
+What does coherence refer to in the SAP Fiori design principles? (2 answers)
+A. A description of the technological foundation
+B. The way in which the data is handled internally
+C. The same intuitive experience across the whole enterprise
+D. A consistent interaction and visual design language
+Answer: C,D (LEAVE A REPLY)
+NEW QUESTION: 28
+Which tile types can you use to display real-time data values read from an OData service?
+(2 answers)
+A. KPI based tile
+B. App Launcher - Static tile
+C. News tile
+D. App Launcher - Dynamic tile
+Answer: B,D (LEAVE A REPLY)
+NEW QUESTION: 29
+Which elements are part of the UX? (2 answers)
+A. User emotion
+B. User response
+C. User interaction
+D. User effectiveness
+Answer: (SHOW ANSWER)
+NEW QUESTION: 30
+Why does SAP Fiori use an intent-based navigation?
+A. The concrete app targets can be deployed separately
+B. Apps targets can be deployed separately
+C. Apps can be developed and deployed in parallel
+D. App implementation make the app deployment easier
+Answer: D (LEAVE A REPLY)
+NEW QUESTION: 31
+You created a new catalog that contains some apps. You want to assign these apps to an
+existing role to provide authorization for the business users. How can you do this using the
+PFCG transaction?
+A. By adding the semantic object to the catalog and group
+B. By assigning the authorization profile for the catalog in the authorization tab
+C. By adding the catalog to the menu tab of the role.
+D. By adding the tile and target mapping to the group
+Answer: D (LEAVE A REPLY)
+Valid C_FIORDEV_21 Dumps shared by Fast2test.com for Helping Passing
+C_FIORDEV_21 Exam! Fast2test.com now offer the newest C_FIORDEV_21 exam
+dumps, the Fast2test.com C_FIORDEV_21 exam questions have been updated and
+answers have been corrected get the newest Fast2test.com C_FIORDEV_21 dumps
+with Test Engine here: https://www.fast2test.com/C_FIORDEV_21-premium-file.html
+(195 Q&As Dumps, 30%OFF Special Discount: freecram)
+NEW QUESTION: 32
+Why do you explore the Problem Space in detail during a Design Thinking workshop?
+A. To validate solution ideas
+B. To understand user needs
+C. To save costs in the evaluation phase
+D. To create desirable solutions
+Answer: B (LEAVE A REPLY)
+NEW QUESTION: 33
+For which app type in SAP Fiori do you install the KPI framework?
+A. Legacy app
+B. Analytical app
+C. Factsheet app
+D. Transactional app
+Answer: B (LEAVE A REPLY)
+NEW QUESTION: 34
+Your customer extends an SAP Fiori app with View Replacement. Which activities do you
+perform? (2 answers)
+A. Identify a specific SAPUI5 control to be replaced
+B. Verify that adding custom content in the Extension Points will NOT suffice
+C. Create an SAPUI5 view that replaces the complete view
+D. Create an SAPUI5 control that replaces the original control
+Answer: B,C (LEAVE A REPLY)
+NEW QUESTION: 35
+What are Smart Controls?
+A. SAPUI5 controls that can be rendered dynamically according to OData service
+annotations
+B. The predecessor of Smart Templates
+C. Basic SAPUI5 controls recommended for standalone usage
+D. Application templates for SAPUI5 applications to optimize development
+Answer: (SHOW ANSWER)
+NEW QUESTION: 36
+You perform a QUnit test with the following syntactical options. Which call returns true
+when you execute it?
+A. Assert.strictEqual(0,"0","true");
+B. Assert.strictEqual(0,null,"true");
+C. Assert.strictEqual(0,"","Ttrue");
+D. Assert.strictEqual(0,-0,"true");
+Answer: D (LEAVE A REPLY)
+NEW QUESTION: 37
+What do you configure to import the BUILD prototype in the SAP Web IDE for
+development?
+A. The API key in the SAP Web IDE plugin
+B. The connection in the SAP HANA Cloud Integration
+C. The destination in the SAP HANA Cloud Platform
+D. The connection in the SAP HANA Cloud Connector
+Answer: C (LEAVE A REPLY)
+NEW QUESTION: 38
+You are modeling a new role for your SAP Fiori Launchpad users. Which of the following
+steps is an optional configuration step?
+A. Assign Catalog to Role
+B. Create Tiles and Target Mappings o Create Catalog
+C. Activate Windows Go to Settings
+D. Create Group and Assign Tile
+Answer: D (LEAVE A REPLY)
+NEW QUESTION: 39
+Which of the following are features of the SAPUIS SDK? Note: There are 2 correct
+answers to this question.
+A. Allows the usage of the jQuery library
+B. Provides an interface to Web Dynpro
+C. Keyboard interaction support and accessibility features
+D. Is a subset of OpenU15
+Answer: (SHOW ANSWER)
+NEW QUESTION: 40
+You develop an SAPUI5 app that updates data for sales order and sales order items on
+the back-end system.
+What do you create to implement a deep insert? (2 answers)
+A. Create a nested structure for Sales Order and Sales Order Items
+B. Create a flat structure with Sales Order and Sales Order Items, and then add an expand
+command
+C. Create an object structure that defines the hierarchy
+D. Create individual structures for both Sales Order and Sales Order Items, and then batch
+them
+Answer: A,C (LEAVE A REPLY)
+Valid C_FIORDEV_21 Dumps shared by Fast2test.com for Helping Passing
+C_FIORDEV_21 Exam! Fast2test.com now offer the newest C_FIORDEV_21 exam
+dumps, the Fast2test.com C_FIORDEV_21 exam questions have been updated and
+answers have been corrected get the newest Fast2test.com C_FIORDEV_21 dumps
+with Test Engine here: https://www.fast2test.com/C_FIORDEV_21-premium-file.html
+(195 Q&As Dumps, 30%OFF Special Discount: freecram)
 #### Q2. What method is used to wire up a FormControl to a native DOM input element in reactive forms?
 
 - [ ] Add the string name given to the FormControl to an attribute named controls on the <form> element to indicate what fields it should include.

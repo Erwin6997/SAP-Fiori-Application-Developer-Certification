@@ -9,11 +9,11 @@
 
 #### NEW QUESTION: 1
 #### What are Technical Catalogs used for? Note: There are 2 correct answers to this question
-A. As a reference for Business Groups
-B. To store tiles and target mappings by technology per solution area
-C. As a reference for Business Catalogs
-D. To reference tiles and target mappings according to Segregation of Duties for example
-a Purchaser, a Buyer and so on
+
+- [ ] A. As a reference for Business Groups
+- [ ] B. To store tiles and target mappings by technology per solution area
+- [ ] C. As a reference for Business Catalogs
+- [ ] D. To reference tiles and target mappings according to Segregation of Duties for example a Purchaser, a Buyer and so on
 
 #### NEW QUESTION: 2
 #### What happens when you use the SAP Web IDE console during a deployment? (2 answers)
@@ -33,7 +33,7 @@ D. A responsive de-composed design
 E. The prevention of irrelevant data being shown to the user
 Answer: A,B,D (LEAVE A REPLY)
 
-####NEW QUESTION: 4
+#### NEW QUESTION: 4
 #### You finalized your app development in the SAP Web IDE and need to deploy it. Which deployment targets are offered? (3 answers)
 A. Deploy to SAP Fiori launchpad
 B. SAPUI5 Java Repository
